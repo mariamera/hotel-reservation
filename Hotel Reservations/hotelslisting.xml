@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHotelsList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HotelsList>
+    <id>000111</id>
+    <name>Courtyard Suites</name>
+    <rating>4.5</rating>
+    <RoomTypes>
+      <Room>
+        <id>Single King Bed</id>
+        <rate>600</rate>
+        <capacity>2/0</capacity>
+      </Room>
+      <Room>
+        <id>Single Queen Bed</id>
+        <rate>530</rate>
+        <capacity>2/0</capacity>
+      </Room>
+      <Room>
+        <id>Two Double Beds</id>
+        <rate>515</rate>
+        <capacity>2/0</capacity>
+      </Room>
+      <Room>
+        <id>One Bedroom Suite</id>
+        <rate>625</rate>
+        <capacity>2/2</capacity>
+      </Room>
+    </RoomTypes>
+  </HotelsList>
+  <HotelsList>
+    <id>000222</id>
+    <name>Dolce Vita Hotel</name>
+    <rating>3.0</rating>
+    <RoomTypes>
+      <Room>
+        <id>Single King Bed</id>
+        <rate>560</rate>
+        <capacity>2/1</capacity>
+      </Room>
+      <Room>
+        <id>Single Queen Bed</id>
+        <rate>110</rate>
+        <capacity>2/1</capacity>
+      </Room>
+      <Room>
+        <id>Two Double Beds</id>
+        <rate>115</rate>
+        <capacity>2/1</capacity>
+      </Room>
+      <Room>
+        <id>One Bedroom Suite</id>
+        <rate>220</rate>
+        <capacity>4/2</capacity>
+      </Room>
+    </RoomTypes>
+  </HotelsList>
+  <HotelsList>
+    <id>000333</id>
+    <name>Fireflies Suites</name>
+    <rating>5.0</rating>
+    <RoomTypes>
+      <Room>
+        <id>Single King Bed</id>
+        <rate>610</rate>
+        <capacity>2/1</capacity>
+      </Room>
+      <Room>
+        <id>Single Queen Bed</id>
+        <rate>520</rate>
+        <capacity>2/0</capacity>
+      </Room>
+      <Room>
+        <id>Two Double Beds</id>
+        <rate>545</rate>
+        <capacity>2/0</capacity>
+      </Room>
+      <Room>
+        <id>One Bedroom Suite</id>
+        <rate>650</rate>
+        <capacity>2/1</capacity>
+      </Room>
+    </RoomTypes>
+  </HotelsList>
+  <HotelsList>
+    <id>000444</id>
+    <name>Aquamarine Camp Hotel</name>
+    <rating>2.5</rating>
+    <RoomTypes>
+      <Room>
+        <id>Single King Bed</id>
+        <rate>530</rate>
+        <capacity>2/2</capacity>
+      </Room>
+      <Room>
+        <id>Single Queen Bed</id>
+        <rate>120</rate>
+        <capacity>4/2</capacity>
+      </Room>
+      <Room>
+        <id>Two Double Beds</id>
+        <rate>100</rate>
+        <capacity>2/0</capacity>
+      </Room>
+      <Room>
+        <id>One Bedroom Suite</id>
+        <rate>90</rate>
+        <capacity>3/2</capacity>
+      </Room>
+    </RoomTypes>
+  </HotelsList>
+  <HotelsList>
+    <id>000555</id>
+    <name>Kaoba Hotel</name>
+    <rating>3.5</rating>
+    <RoomTypes>
+      <Room>
+        <id>Single King Bed</id>
+        <rate>555</rate>
+        <capacity>2/2</capacity>
+      </Room>
+      <Room>
+        <id>Single Queen Bed</id>
+        <rate>160</rate>
+        <capacity>1/0</capacity>
+      </Room>
+      <Room>
+        <id>Two Double Beds</id>
+        <rate>130</rate>
+        <capacity>1/0</capacity>
+      </Room>
+      <Room>
+        <id>One Bedroom Suite</id>
+        <rate>110</rate>
+        <capacity>2/2</capacity>
+      </Room>
+    </RoomTypes>
+  </HotelsList>
+  <HotelsList>
+    <id>000666</id>
+    <name>Glee Suites</name>
+    <rating>3.0</rating>
+    <RoomTypes>
+      <Room>
+        <id>Single King Bed</id>
+        <rate>545</rate>
+        <capacity>2/1</capacity>
+      </Room>
+      <Room>
+        <id>Single Queen Bed</id>
+        <rate>120</rate>
+        <capacity>3/0</capacity>
+      </Room>
+      <Room>
+        <id>Two Double Beds</id>
+        <rate>110</rate>
+        <capacity>3/0</capacity>
+      </Room>
+      <Room>
+        <id>One Bedroom Suite</id>
+        <rate>120</rate>
+        <capacity>5/2</capacity>
+      </Room>
+    </RoomTypes>
+  </HotelsList>
+  <HotelsList>
+    <id>000777</id>
+    <name>Daydream Hotel</name>
+    <rating>1.5</rating>
+    <RoomTypes>
+      <Room>
+        <id>Single King Bed</id>
+        <rate>520</rate>
+        <capacity>3/2</capacity>
+      </Room>
+      <Room>
+        <id>Single Queen Bed</id>
+        <rate>50</rate>
+        <capacity>1/0</capacity>
+      </Room>
+      <Room>
+        <id>Two Double Beds</id>
+        <rate>90</rate>
+        <capacity>1/0</capacity>
+      </Room>
+      <Room>
+        <id>One Bedroom Suite</id>
+        <rate>80</rate>
+        <capacity>2/2</capacity>
+      </Room>
+    </RoomTypes>
+  </HotelsList>
+  <HotelsList>
+    <id>000888</id>
+    <name>Golden Coast Resort</name>
+    <rating>2.0</rating>
+    <RoomTypes>
+      <Room>
+        <id>Single King Bed</id>
+        <rate>540</rate>
+        <capacity>4/2</capacity>
+      </Room>
+      <Room>
+        <id>Single Queen Bed</id>
+        <rate>410</rate>
+        <capacity>3/1</capacity>
+      </Room>
+      <Room>
+        <id>Two Double Beds</id>
+        <rate>395</rate>
+        <capacity>3/0</capacity>
+      </Room>
+      <Room>
+        <id>One Bedroom Suite</id>
+        <rate>545</rate>
+        <capacity>2/2</capacity>
+      </Room>
+    </RoomTypes>
+  </HotelsList>
+  <HotelsList>
+    <id>000999</id>
+    <name>Holiday Suites</name>
+    <rating>4.0</rating>
+    <RoomTypes>
+      <Room>
+        <id>Single King Bed</id>
+        <rate>585</rate>
+        <capacity>2/2</capacity>
+      </Room>
+      <Room>
+        <id>Single Queen Bed</id>
+        <rate>499</rate>
+        <capacity>2/0</capacity>
+      </Room>
+      <Room>
+        <id>Two Double Beds</id>
+        <rate>445</rate>
+        <capacity>5/3</capacity>
+      </Room>
+      <Room>
+        <id>One Bedroom Suite</id>
+        <rate>375</rate>
+        <capacity>1/1</capacity>
+      </Room>
+    </RoomTypes>
+  </HotelsList>
+  <HotelsList>
+    <id>001000</id>
+    <name>Redhaven Suites</name>
+    <rating>4.5</rating>
+    <RoomTypes>
+      <Room>
+        <id>Single King Bed</id>
+        <rate>545</rate>
+        <capacity>2/2</capacity>
+      </Room>
+      <Room>
+        <id>Single Queen Bed</id>
+        <rate>500</rate>
+        <capacity>2/0</capacity>
+      </Room>
+      <Room>
+        <id>Two Double Beds</id>
+        <rate>515</rate>
+        <capacity>3/1</capacity>
+      </Room>
+      <Room>
+        <id>One Bedroom Suite</id>
+        <rate>610</rate>
+        <capacity>4/2</capacity>
+      </Room>
+    </RoomTypes>
+  </HotelsList>
+</ArrayOfHotelsList>

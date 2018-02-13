@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfRoomTypes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RoomTypes>
+    <id>KB</id>
+    <name>Single King Bed</name>
+  </RoomTypes>
+  <RoomTypes>
+    <id>QB</id>
+    <name>Single Queen Bed</name>
+  </RoomTypes>
+  <RoomTypes>
+    <id>DB</id>
+    <name>Two Double Beds</name>
+  </RoomTypes>
+  <RoomTypes>
+    <id>BS</id>
+    <name>One Bedroom Suite</name>
+  </RoomTypes>
+</ArrayOfRoomTypes>
